@@ -17,3 +17,6 @@ uv.lock
 
 # log
 logs/
+
+# debug
+profiles/
