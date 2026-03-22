@@ -1,0 +1,16 @@
+# venv
+.venv/
+
+# python cache
+*.pyc
+__pycache__/
+
+# IDE
+.idea/
+
+# python version
+.python-version
+
+# mcp
+pyproject.toml
+uv.lock
